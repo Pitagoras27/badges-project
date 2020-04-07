@@ -35,6 +35,30 @@
       "jobTitle": "Dynamic Tactics Liaison",
       "twitter": "KellyCorkery06275-3676",
       "avatarUrl": "https://www.gravatar.com/avatar/00e35de53a06a655fe5b6ac8b96bdb84?d=identicon"
+    },
+    {
+      "firstName": "Richard",
+      "lastName": "Kaufman",
+      "email": "richardbkaufman@gmail.com",
+      "jobTitle": "Frontend Engineer",
+      "twitter": "sparragus",
+      "id": "DbY1vXd"
+    },
+    {
+      "firstName": "Carolynn",
+      "lastName": "Kaufman",
+      "email": "carolynn@example.com",
+      "jobTitle": "Lawyer",
+      "twitter": "sparragus",
+      "id": "7medAJ4"
+    },
+    {
+      "firstName": "Snoopy",
+      "lastName": "Kaufman",
+      "email": "snoopy@example.com",
+      "jobTitle": "Super Dog",
+      "twitter": "snoopysuperdog",
+      "id": "Tab9I7W"
     }
   ]
 }
