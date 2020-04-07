@@ -22,7 +22,7 @@
       "id": "f1183526-aff1-46da-8bfb-976563c6f696",
       "firstName": "Karlee",
       "lastName": "Satterfield",
-      "email": "Christian31@gmail.com",
+      "email": "KarleeSatterfield@example.com",
       "jobTitle": "Chief Accounts Agent",
       "twitter": "KarleeSatterfield32692-9732",
       "avatarUrl": "https://www.gravatar.com/avatar/c2d679f9b44e1869548ab95aac18b7c9?d=identicon"
@@ -68,6 +68,30 @@
       "jobTitle": "Super Dog",
       "twitter": "snoopysuperdog",
       "id": "Tab9I7W"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "jobTitle": "",
+      "twitter": "",
+      "id": "5o0Dcaw"
+    },
+    {
+      "firstName": "Magaly",
+      "lastName": "Otak",
+      "email": "maggy.otaku@gmail.com",
+      "jobTitle": "Otaku",
+      "twitter": "ottak",
+      "id": "Tiw2qRd"
+    },
+    {
+      "firstName": "Francisco",
+      "lastName": "Torr",
+      "email": "dosto@gmail.com",
+      "jobTitle": "Web Developer",
+      "twitter": "webdev",
+      "id": "tKVELNz"
     }
   ]
 }
