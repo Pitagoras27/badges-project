@@ -10,15 +10,6 @@
       "avatarUrl": "https://www.gravatar.com/avatar/0fc6d5ee2ee176d4581acf6a7e5644cc?d=identicon"
     },
     {
-      "id": "22330587-c700-4d00-911d-91de63db1f42",
-      "firstName": "Dustin",
-      "lastName": "Stehr",
-      "email": "Lue.Funk@hotmail.com",
-      "jobTitle": "Legacy Infrastructure Consultant",
-      "twitter": "DustinStehr77585-9157",
-      "avatarUrl": "https://www.gravatar.com/avatar/272e74beaee600c8ab957ddee8444495?d=identicon"
-    },
-    {
       "id": "f1183526-aff1-46da-8bfb-976563c6f696",
       "firstName": "Karlee",
       "lastName": "Satterfield",
@@ -44,30 +35,6 @@
       "jobTitle": "Dynamic Tactics Liaison",
       "twitter": "KellyCorkery06275-3676",
       "avatarUrl": "https://www.gravatar.com/avatar/00e35de53a06a655fe5b6ac8b96bdb84?d=identicon"
-    },
-    {
-      "firstName": "Richard",
-      "lastName": "Kaufman",
-      "email": "richardbkaufman@gmail.com",
-      "jobTitle": "Frontend Engineer",
-      "twitter": "sparragus",
-      "id": "DbY1vXd"
-    },
-    {
-      "firstName": "Carolynn",
-      "lastName": "Kaufman",
-      "email": "carolynn@example.com",
-      "jobTitle": "Lawyer",
-      "twitter": "sparragus",
-      "id": "7medAJ4"
-    },
-    {
-      "firstName": "Snoopy",
-      "lastName": "Kaufman",
-      "email": "snoopy@example.com",
-      "jobTitle": "Super Dog",
-      "twitter": "snoopysuperdog",
-      "id": "Tab9I7W"
     }
   ]
 }
